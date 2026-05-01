@@ -1,0 +1,22 @@
+---
+
+## 🚫 .gitignore
+
+```gitignore
+# Godot
+.godot/
+.import/
+export.cfg
+export_presets.cfg
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# ML models
+*.onnx
+*.pth
+
+# OS
+.DS_Store
