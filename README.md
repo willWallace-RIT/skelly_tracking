@@ -15,3 +15,5 @@ Camera → MediaPipe Pose → WebSocket → Godot Skeleton Rig
 ### 1. Start backend
 ```bash
 python ml_backend/pose_server.py
+
+NOTE CURRENTLY NEEDs A main PROJ
